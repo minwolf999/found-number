@@ -1,0 +1,41 @@
+h1{
+    font-size:20px;
+}
+
+input.rep{
+    display:block;
+    margin: 1em auto;
+    height: 1.5em;
+    text-align: center;
+    border: 1px solid darkgrey;
+    border-radius: 7px;
+}
+
+input.rep:invalid{
+    background-color: #f0cbcb;
+    border: 1px solid #f00;
+}
+
+button.but{
+    margin: 0 auto;
+    display:block;
+    border: 1px solid darkgrey;
+    border-radius: 7px;
+}
+
+div.d1{
+    text-align: center;
+    margin: 1em 0;
+}
+
+.petit, .grand{
+    margin: 0 20px;
+}
+
+div.d2{
+    text-align: left;
+    font-size: 12px;
+    width: 300px;
+    margin: 0 auto;
+    font-style: italic;
+}
